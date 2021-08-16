@@ -1,15 +1,15 @@
 const initialState = {
     books: [
-        {
-            id: 1,
-            title: 'JScript',
-            author: 'jJson'
-        },
-        {
-          id: 2,
-          title: 'React',
-          author: 'ReRan'
-      },
+    //     {
+    //         id: 1,
+    //         title: 'JScript',
+    //         author: 'jJson'
+    //     },
+    //     {
+    //       id: 2,
+    //       title: 'React',
+    //       author: 'ReRan'
+    //   },
 
     ]
 };
